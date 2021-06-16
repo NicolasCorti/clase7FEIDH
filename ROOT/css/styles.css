@@ -1,0 +1,56 @@
+header {
+    background-color: #E5E5E5;
+    width: 100%;
+}
+
+img {
+    margin: auto 23%;
+}
+
+h1, footer {
+    text-align: center;
+}
+
+h1, .subTitulo {
+    background-color: #C4C4C4;
+    color: #005677;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+.texto {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section {
+    margin: 100px 200px;
+}
+
+.fecha {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.introduccion {
+    font-style: italic;
+    margin-right: 10px;
+}
+
+
+.listaSinVinietas {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+.subItem {
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #005677;
+    width: 100%;
+}
+
+p{
+    color: #FFFFFF;
+}
